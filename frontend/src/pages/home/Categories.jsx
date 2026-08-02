@@ -1,4 +1,9 @@
 const Categories = () => {
-  return <div>Categories</div>;
+  const categories = [
+    {name:}
+  ]
+  return <>
+  <div className="product__grid"></div>
+  </>;
 };
 export default Categories;
