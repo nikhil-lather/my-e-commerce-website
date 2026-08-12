@@ -30,7 +30,7 @@
     "price": 199.99,
     "image": "https://images.unsplash.com/photo-1631097969294-c38afba59496?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "color": "gold",
-    "rating": 4.7
+    "rating": 3.7
   },
   {
     "id": 4,
@@ -40,7 +40,7 @@
     "price": 19.99,
     "image": "https://images.unsplash.com/photo-1631214500115-598fc2cb8d2d?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "color": "red",
-    "rating": 4.2
+    "rating": 3.2
   },
   {
     "id": 5,
@@ -51,7 +51,7 @@
     "oldPrice": 39.99,
     "image": "https://images.unsplash.com/photo-1485527691629-8e370684924c?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "color": "blue",
-    "rating": 4.3
+    "rating": 3.3
   },
   {
     "id": 6,
